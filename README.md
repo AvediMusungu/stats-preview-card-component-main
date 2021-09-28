@@ -39,12 +39,11 @@ Users should be able to:
 
 ### What I learned
 
--I implemented Bootstrap into my HTML for the first time which gave me good practice on the grid layout.
--I learnt how to use media queries in building responsive sites
--I learnt how to use a compiler (Scout App) into my workflow. I wrote the majority of the code for styles in sass and Scout App converted it to css which was a big load off my back.
--
+- I implemented Bootstrap into my HTML for the first time which gave me good practice on the grid layout.
+- I learnt how to use media queries in building responsive sites
+- I learnt how to use a compiler (Scout App) into my workflow. I wrote the majority of the code for styles in sass and Scout App converted it to css which was a big load off my back.
 
-To see how you can add code snippets, see below:
+-Some code that i'm proud of:
 
 ```html
 <div class="card container-fluid">
@@ -128,29 +127,21 @@ To see how you can add code snippets, see below:
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+- Get better at implementing bootstrap in less time
+- Understand implementing breakpoints using media queries in SASS/SCSS
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Making responsive sites](https://stackoverflow.com/questions/32829567/change-div-order-with-css-depending-on-device-width/32829829) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [CSS Filter](https://www.w3schools.com/cssref/css3_pr_filter.asp) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [How the bootstrap 4 grid works](https://uxplanet.org/how-the-bootstrap-4-grid-works-a1b04703a3b7) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Making responsive sites](https://stackoverflow.com/questions/32829567/change-div-order-with-css-depending-on-device-width/32829829) - This helped me make my site mobile-friendly.
+- [CSS Filter](https://www.w3schools.com/cssref/css3_pr_filter.asp) - This was a useful reference in formatting my image file.
+- [How the bootstrap 4 grid works](https://uxplanet.org/how-the-bootstrap-4-grid-works-a1b04703a3b7) - This was a useful overview of the bootstrap grid layout.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Frontend Mentor - [@AvediMusungu](https://www.frontendmentor.io/profile/AvediMusungu)
 
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
