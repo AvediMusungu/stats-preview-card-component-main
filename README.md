@@ -43,7 +43,7 @@ Users should be able to:
 - I learnt how to use media queries in building responsive sites
 - I learnt how to use a compiler (Scout App) into my workflow. I wrote the majority of the code for styles in sass and Scout App converted it to css which was a big load off my back.
 
--Some code that i'm proud of:
+- Some code that i'm proud of:
 
 ```html
 <div class="card container-fluid">
